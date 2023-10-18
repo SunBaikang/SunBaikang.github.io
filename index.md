@@ -31,7 +31,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Fault diagnosis
 - Ergonomics
 
-My current research focus is on detecting small targets in complex backgrounds. My interest is the application of **deep learning** in the recognition of **small targets**, and technologies such as artificial intelligence and target recognition have positively impacted society. I hope to continue to delve deeper into such meaningful matters.
+   My current research focus is on detecting small targets in complex backgrounds. My interest is the application of **deep learning** in the recognition of **small targets**, and technologies such as artificial intelligence and target recognition have positively impacted society. I hope to continue to delve deeper into such meaningful matters.
 
 <br>
 
