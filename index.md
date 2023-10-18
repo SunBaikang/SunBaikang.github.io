@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="C:\Users\wy188\Documents\WeChat Files\wxid_ppmpkvqx942s22\FileStorage\Temp\7be64b74632cc8aaf6ec5acf4d7405b.png" alt="7be64b74632cc8aaf6ec5acf4d7405b" style="zoom: 33%;" />
 
 Here is **Baikang Sun (孙百康)**.
 
