@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="[https://caihanlin.com/caihanlin.jpg](https://github.com/SunBaikang/SunBaikang.github.io/blob/main/images/7be64b74632cc8aaf6ec5acf4d7405b.png)" class="floatpic" width="360" height="480">
 
 Here is **Baikang Sun (孙百康)**.
 
